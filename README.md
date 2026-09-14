@@ -1,80 +1,74 @@
+<div align="center">
+
 # Hi, I'm Induranga Bandara 👋
 
-### Senior Software Engineer | Backend & Full-Stack Developer
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Backend-Focused+Full-Stack+Developer;Building+Scalable+APIs+%26+Microservices;Exploring+AI+Agents+%26+LLM+Applications"
+  alt="Animated introduction"
+/>
 
-I’m a software engineer from Sri Lanka with 5+ years of experience building
-scalable web applications, microservices, third-party integrations and
-high-concurrency backend systems.
+📍 Sri Lanka &nbsp;•&nbsp; 💼 5+ Years of Experience
 
-I enjoy turning complex business requirements into secure, maintainable and
-production-ready software.
+</div>
 
-## 🚀 What I Work With
+## 👨‍💻 About Me
 
-### Backend
-- Node.js, TypeScript, NestJS and Express
-- Java and Spring Boot
-- PHP and Laravel
-- Python and FastAPI
-- Go and ASP.NET Core
+I’m a **Senior Software Engineer** specializing in backend and full-stack
+development. I build scalable web applications, REST APIs, microservices,
+real-time systems and third-party integrations.
 
-### Frontend
-- React, Next.js and Angular
-- TypeScript, JavaScript and Tailwind CSS
+My experience includes high-concurrency platforms, payment and game-provider
+integrations, database optimization, cloud deployment and CI/CD automation.
 
-### Databases & Infrastructure
-- PostgreSQL, MySQL, MongoDB and Redis
-- Docker, GitHub Actions and CI/CD
-- AWS, Azure and Linux servers
-- REST APIs, WebSockets and Microservices
+## 🛠️ Technologies
 
-## 💼 Professional Experience
+<div align="center">
 
-- Designed and maintained microservice-based SaaS platforms
-- Integrated payment gateways, casino games and third-party providers
-- Built systems supporting high-concurrency and real-time operations
-- Improved application performance using database optimization and Redis caching
-- Automated deployments and infrastructure workflows using Docker and CI/CD
-- Worked with AWS services including ECS, Lambda, S3 and RDS
-- Built AI-assisted workflows and LLM-powered application features
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,java,spring,php,laravel,python,go,dotnet)](https://skillicons.dev)
 
-## 📌 Featured Projects
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,angular,js,html,css,tailwind)](https://skillicons.dev)
 
-### 🚚 CargoFlow Shipment Management System
-A full-stack logistics platform for shipment creation, warehouse verification,
-barcode tracking, container management, billing and delivery monitoring.
+[![Database and Cloud Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,azure,docker,githubactions,git,linux)](https://skillicons.dev)
 
-**Technologies:** React, Node.js, TypeScript, PostgreSQL and Docker
+</div>
 
-- [Frontend Repository](https://github.com/neobros/cargoflow-shipment-management-system-app)
-- [Backend Repository](https://github.com/neobros/cargoflow-shipment-management-system-backend)
+## 🚀 What I Build
 
-### 🦷 Sunrise Dental Clinic Management System
-A Java web application for managing patients, dentists, schedules,
-appointments, billing, reports and role-based access.
+- Scalable backend services and REST APIs
+- Microservice-based business platforms
+- React, Next.js and Angular applications
+- Real-time systems using WebSockets
+- Payment and third-party integrations
+- AI and LLM-powered workflows
+- Docker, cloud and CI/CD solutions
 
-**Technologies:** Java 17, JSP, Servlets, JDBC, MySQL, Maven and JUnit 5
+## 📊 GitHub Activity
 
-### 🎮 Real-Time Game Integration Platform
-Backend services for integrating game providers, processing rounds,
-publishing real-time results and handling automated refunds.
+<div align="center">
 
-**Technologies:** Node.js, TypeScript, Go, PostgreSQL, MongoDB, Redis and WebSockets
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=neobros&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-## 🌱 Currently Exploring
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neobros&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
-- Generative AI and LLM integrations
-- AI agents and Model Context Protocol
-- Distributed systems and scalable architecture
-- Advanced Go and cloud-native development
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=neobros&theme=tokyo-night&hide_border=true"
+  alt="Contribution graph"
+/>
 
-## 🤝 Let's Connect
+</div>
 
-- GitHub: [github.com/neobros](https://github.com/neobros)
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Add your portfolio URL
-- Location: Kurunegala, Sri Lanka
+## 🤝 Connect With Me
 
----
+<div align="center">
 
-> Building scalable systems and continuously learning better ways to solve problems.
+[![GitHub](https://img.shields.io/badge/GitHub-neobros-181717?style=for-the-badge&logo=github)](https://github.com/neobros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Induranga_Bandara-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+</div>
